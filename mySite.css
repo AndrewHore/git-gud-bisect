@@ -1,19 +1,25 @@
 body {
-  font-family: Arial, Helvetica, sans-serif
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
-  font-size: 80
+  font-size: 80;
+  text-align: center
 }
 
 .example {
-  color: blue
+  color: blue;
 }
 
 th {
-  border: 1px solid
+  border: 1px solid;
 }
 
 td {
-  border: 1px solid
+  border: 1px solid;
+}
+
+.textDiv {
+  margin: auto;
+  width: 50%;
 }
