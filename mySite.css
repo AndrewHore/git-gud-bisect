@@ -1,5 +1,6 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
+  background: #f4d142;
 }
 
 h1 {
@@ -37,10 +38,11 @@ td {
 .imageDiv {
   margin: auto;
   width: 50%;
+  padding-bottom: 20px 
 }
 
 .everythingDiv {
   margin: auto;
   width: 50%;
-  background: lightgoldenrodyellow
+  background: lightgoldenrodyellow;
 }
