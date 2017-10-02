@@ -4,7 +4,7 @@ body {
 
 h1 {
   font-size: 80;
-  text-align: center
+  text-align: center;
 }
 
 .example {
@@ -37,4 +37,10 @@ td {
 .imageDiv {
   margin: auto;
   width: 50%;
+}
+
+.everythingDiv {
+  margin: auto;
+  width: 50%;
+  background: lightgoldenrodyellow
 }
